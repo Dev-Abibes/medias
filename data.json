@@ -1166,383 +1166,684 @@
         ]
     },
     {
-        "category":"Press Maroc",
+        "category": "Press Maroc",
         "media": [
-            { 
+            {
                 "name": "M.A.P maroc",
-                "type": "hebdomadaire",
-                "url": "https://www.map.ma/"
+                "url": "https://www.map.ma/",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "hebdomadaire",
+                "createdAt": "1997-01-01"
             },
             {
                 "name": "ALBAYANE",
-                "type": "hebdomadaire",
-                "url": "https://www.albayane.press.ma"
+                "url": "https://www.albayane.press.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "hebdomadaire",
+                "createdAt": "1984-01-01"
             },
             {
                 "name": "AUFAIT",
-                "type": "quotidien gratuit",
-                "url": "https://www.aufait.ma"
+                "url": "https://www.aufait.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien gratuit",
+                "createdAt": "2012-01-01"
             },
             {
                 "name": "AUJOURD'HUI LE MAROC",
-                "type": "quotidien",
-                "url": "https://www.aujourdhui.ma"
+                "url": "https://www.aujourdhui.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "2000-01-01"
             },
             {
                 "name": "LE CANARD LIBERE",
-                "type": "hebdomadaire",
-                "url": "https://www.lecanardlibere.com"
+                "url": "https://www.lecanardlibere.com",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "hebdomadaire",
+                "createdAt": "2011-01-01"
             },
             {
                 "name": "LES INSPIRATIONS ECO",
-                "type": "quotidien",
-                "url": "https://www.lesinspirationseco.ma"
+                "url": "https://www.lesinspirationseco.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "2013-01-01"
             },
             {
                 "name": "L'ECONOMISTE",
-                "type": "quotidien economique",
-                "url": "https://www.leconomiste.com"
+                "url": "https://www.leconomiste.com",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "quotidien economique",
+                "createdAt": "1991-01-01"
             },
             {
                 "name": "LE JOURNAL DE TANGER",
-                "type": "hebdomadaire",
-                "url": "https://www.journaldetanger.ma"
+                "url": "https://www.journaldetanger.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "hebdomadaire",
+                "createdAt": "2006-01-01"
             },
             {
                 "name": "LE MATIN",
-                "type": "quotidien",
-                "url": "https://www.lematin.ma"
+                "url": "https://www.lematin.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "1951-01-01"
             },
             {
                 "name": "LE SOIR ECHOS",
-                "type": "quotidien",
-                "url": "https://www.lesoirechos.com"
+                "url": "https://www.lesoirechos.com",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "2009-01-01"
             },
             {
                 "name": "LIBERATION",
-                "type": "quotidien",
-                "url": "https://www.liberation.ma"
+                "url": "https://www.liberation.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "2008-01-01"
             },
             {
                 "name": "L'OPINION",
-                "type": "quotidien",
-                "url": "https://www.lopinion.ma"
+                "url": "https://www.lopinion.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "1995-01-01"
             },
             {
                 "name": "AKHBAR AL YOUM",
-                "type": "quotidien",
-                "url": "https://www.akhbaralyoum.ma"
+                "url": "https://www.akhbaralyoum.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "2007-01-01"
             },
             {
                 "name": "AL AHDATH",
-                "type": "quotidien",
-                "url": "https://www.ahdath.info"
+                "url": "https://www.ahdath.info",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "1997-01-01"
             },
             {
                 "name": "AL ALAM",
-                "type": "quotidien",
-                "url": "https://www.alalam.ma"
+                "url": "https://www.alalam.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "1970-01-01"
             },
             {
                 "name": "ALOUSBOUE",
-                "type": "hebdomadaire",
-                "url": "https://www.alousboue.com"
+                "url": "https://www.alousboue.com",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "hebdomadaire",
+                "createdAt": "2000-01-01"
             },
             {
                 "name": "AL HARAKA",
-                "type": "quotidien",
-                "url": "https://www.alharaka.ma"
+                "url": "https://www.alharaka.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "1966-01-01"
             },
             {
                 "name": "AL ITTIHAD",
-                "type": "quotidien",
-                "url": "https://www.alittihad.info"
+                "url": "https://www.alittihad.info",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "1977-01-01"
             },
             {
                 "name": "AL MAGHRIBIA",
-                "type": "quotidien",
-                "url": "https://www.maghribia.ma"
+                "url": "https://www.maghribia.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "1997-01-01"
             },
             {
                 "name": "AL MASSAE",
-                "type": "quotidien",
-                "url": "https://www.almassae.ma"
+                "url": "https://www.almassae.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "2006-01-01"
             },
             {
                 "name": "ALMOUNTAKHAB",
-                "type": "Bi Hebdo",
-                "url": "https://www.almountakhab.com"
+                "url": "https://www.almountakhab.com",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "Bi Hebdo",
+                "createdAt": "1988-01-01"
             },
             {
                 "name": "AL AKHBAR",
-                "type": "quotidien",
-                "url": "https://www.akhbar.ma"
+                "url": "https://www.akhbar.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "2008-01-01"
             },
             {
                 "name": "ANNAHAR",
-                "type": "quotidien",
-                "url": "https://www.annahar.ma"
+                "url": "https://www.annahar.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "2011-01-01"
             },
             {
                 "name": "ASSABAH",
-                "type": "quotidien",
-                "url": "https://www.assabah.ma"
+                "url": "https://www.assabah.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "1959-01-01"
             },
             {
                 "name": "RISSALAT AL OMMA",
-                "type": "quotidien",
-                "url": "https://www.rissalat-al-omma.ma"
+                "url": "https://www.rissalat-al-omma.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "2005-01-01"
             },
             {
                 "name": "A+E",
-                "type": "Architecture et Environnement",
-                "url": "https://www.ae-mag.com"
+                "url": "https://www.ae-mag.com",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Architecture et Environnement",
+                "createdAt": "2007-01-01"
             },
             {
                 "name": "AGRICULTURE DU MAGHREB",
-                "type": "Presse Professionelle",
-                "url": "https://www.agriculturemaghreb.com"
+                "url": "https://www.agriculturemaghreb.com",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Presse Professionelle",
+                "createdAt": "1990-01-01"
             },
             {
                 "name": "AUTO NEWS",
-                "type": "Auto",
-                "url": "https://www.autonews.ma"
+                "url": "https://www.autonews.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Auto",
+                "createdAt": "2010-01-01"
             },
             {
                 "name": "ART DE VIVRE MAG",
-                "type": "Déco",
-                "url": "https://www.artdevivremag.ma"
+                "url": "https://www.artdevivremag.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Déco",
+                "createdAt": "2008-01-01"
             },
             {
                 "name": "CHALLENGE HEBDO",
-                "type": "Business",
-                "url": "https://www.challengehebdo.ma"
+                "url": "https://www.challengehebdo.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Business",
+                "createdAt": "2011-01-01"
             },
             {
                 "name": "CHANTIERS DU MAROC",
-                "type": "Construction et BTP",
-                "url": "https://www.chantiersdumaroc.com"
+                "url": "https://www.chantiersdumaroc.com",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Construction et BTP",
+                "createdAt": "2004-01-01"
             },
             {
                 "name": "CINE NEWS",
-                "type": "Culture",
-                "url": "https://www.cinenews.ma"
+                "url": "https://www.cinenews.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Culture",
+                "createdAt": "2009-01-01"
             },
             {
                 "name": "COULEURS MAROC",
-                "type": "Culture",
-                "url": "https://www.couleursmaroc.ma"
+                "url": "https://www.couleursmaroc.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Culture",
+                "createdAt": "2010-01-01"
             },
             {
                 "name": "DIPLOMATICA MAG",
-                "type": "Info",
-                "url": "https://www.diplomatica-mag.ma"
+                "url": "https://www.diplomatica-mag.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Info",
+                "createdAt": "2006-01-01"
             },
             {
                 "name": "ECONOMIE ENTREPRISES",
-                "type": "Eco",
-                "url": "https://www.economieentreprises.ma"
+                "url": "https://www.economieentreprises.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Eco",
+                "createdAt": "2010-01-01"
             },
             {
                 "name": "DIPTYK MAG",
-                "type": "Culture",
-                "url": "https://www.diptyk-mag.ma"
+                "url": "https://www.diptyk-mag.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Culture",
+                "createdAt": "2012-01-01"
             },
             {
                 "name": "FAMILLE ACTUELLE",
-                "type": "Famille",
-                "url": "https://www.familleactuelle.ma"
+                "url": "https://www.familleactuelle.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Famille",
+                "createdAt": "2007-01-01"
             },
             {
                 "name": "FINANCE NEWS",
-                "type": "Finance",
-                "url": "https://www.financenews.ma"
+                "url": "https://www.financenews.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Finance",
+                "createdAt": "2009-01-01"
             },
             {
                 "name": "GRAZIA MAROC",
-                "type": "Féminin",
-                "url": "https://www.grazia.ma"
+                "url": "https://www.grazia.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Féminin",
+                "createdAt": "2013-01-01"
             },
             {
                 "name": "FEMMES DU MAROC",
-                "type": "Féminin",
-                "url": "https://www.femmesdumaroc.ma"
+                "url": "https://www.femmesdumaroc.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Féminin",
+                "createdAt": "2010-01-01"
             },
             {
                 "name": "FOOD MAGAZINE",
-                "type": "Agroalimentaire",
-                "url": "https://www.foodmagazine.ma"
+                "url": "https://www.foodmagazine.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Agroalimentaire",
+                "createdAt": "2012-01-01"
             },
             {
                 "name": "GOLF DU MAROC",
-                "type": "Sport",
-                "url": "https://www.golfdumaroc.ma"
+                "url": "https://www.golfdumaroc.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Sport",
+                "createdAt": "2008-01-01"
             },
             {
                 "name": "ICONES",
-                "type": "Féminin",
-                "url": "https://www.icones.ma"
+                "url": "https://www.icones.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Féminin",
+                "createdAt": "2015-01-01"
             },
             {
                 "name": "ID PRESTIGE",
-                "type": "Déco",
-                "url": "https://www.idprestige.ma"
+                "url": "https://www.idprestige.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Déco",
+                "createdAt": "2009-01-01"
             },
             {
                 "name": "ILLI",
-                "type": "Féminin",
-                "url": "https://www.illi.ma"
+                "url": "https://www.illi.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Féminin",
+                "createdAt": "2014-01-01"
             },
             {
                 "name": "INFO MAGAZINE",
-                "type": "Informatique",
-                "url": "https://www.infomagazine.ma"
+                "url": "https://www.infomagazine.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Informatique",
+                "createdAt": "2012-01-01"
             },
             {
                 "name": "INDUSTRIE DU MAROC",
-                "type": "Industrie",
-                "url": "https://www.industriemaroc.ma"
+                "url": "https://www.industriemaroc.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Industrie",
+                "createdAt": "2006-01-01"
             },
             {
                 "name": "L'INTERMEDIAIRE",
-                "type": "Annonces",
-                "url": "https://www.intermediaire.ma"
+                "url": "https://www.intermediaire.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Annonces",
+                "createdAt": "2008-01-01"
             },
             {
                 "name": "LABEL BEAUTE MAGAZINE",
-                "type": "Féminin",
-                "url": "https://www.labelbeaute.ma"
+                "url": "https://www.labelbeaute.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Féminin",
+                "createdAt": "2010-01-01"
             },
             {
                 "name": "LA NOUVELLE TRIBUNE",
-                "type": "Info",
-                "url": "https://www.lanouvelletribune.ma"
+                "url": "https://www.lanouvelletribune.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Info",
+                "createdAt": "2009-01-01"
             },
             {
                 "name": "LA REVUE AUTO",
-                "type": "Auto",
-                "url": "https://www.larevueauto.ma"
+                "url": "https://www.larevueauto.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Auto",
+                "createdAt": "2012-01-01"
             },
             {
                 "name": "LA VIE ECO",
-                "type": "Eco",
-                "url": "https://www.lavieeco.ma"
+                "url": "https://www.lavieeco.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Eco",
+                "createdAt": "1997-01-01"
             },
             {
                 "name": "LES INSPIRATIONS ECO",
-                "type": "Eco",
-                "url": "https://www.lesinspirationseco.ma"
+                "url": "https://www.lesinspirationseco.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Eco",
+                "createdAt": "2013-01-01"
             },
             {
                 "name": "L'OBSERVATEUR",
-                "type": "Info",
-                "url": "https://www.lobservateur.ma"
+                "url": "https://www.lobservateur.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Info",
+                "createdAt": "2003-01-01"
             },
             {
                 "name": "L'OFFICIEL",
-                "type": "Féminin",
-                "url": "https://www.lofficiel.ma"
+                "url": "https://www.lofficiel.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Féminin",
+                "createdAt": "2007-01-01"
             },
             {
                 "name": "L'OFFICIEL HOMME",
-                "type": "Masculin",
-                "url": "https://www.lofficielhomme.ma"
+                "url": "https://www.lofficielhomme.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Masculin",
+                "createdAt": "2012-01-01"
             },
             {
                 "name": "LOGIC IMMO MAROC",
-                "type": "Immobilier",
-                "url": "https://www.logicimmomaroc.ma"
+                "url": "https://www.logicimmomaroc.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Immobilier",
+                "createdAt": "2010-01-01"
             },
             {
                 "name": "LE CANARD LIBERE",
-                "type": "Satirique",
-                "url": "https://www.lecanardlibere.com"
+                "url": "https://www.lecanardlibere.com",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Satirique",
+                "createdAt": "2002-01-01"
             },
             {
                 "name": "MAROC DIPLOMATIQUE",
-                "type": "Info",
-                "url": "https://www.marocdiplomatique.com"
+                "url": "https://www.marocdiplomatique.com",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Info",
+                "createdAt": "2005-01-01"
             },
             {
                 "name": "MAROC HEBDO",
-                "type": "Info",
-                "url": "https://www.marochebd.ma"
+                "url": "https://www.marochebd.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Info",
+                "createdAt": "1997-01-01"
             },
             {
                 "name": "MAISON DU MAROC",
-                "type": "Maison Déco",
-                "url": "https://www.maisondu-maroc.ma"
+                "url": "https://www.maisondu-maroc.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Maison Déco",
+                "createdAt": "2015-01-01"
             },
             {
                 "name": "METROPOLIS",
-                "type": "Culture",
-                "url": "https://www.metropolis.ma"
+                "url": "https://www.metropolis.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Culture",
+                "createdAt": "2008-01-01"
             },
             {
                 "name": "OH MAMAN",
-                "type": "Féminin",
-                "url": "https://www.ohmaman.ma"
+                "url": "https://www.ohmaman.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Féminin",
+                "createdAt": "2008-01-01"
             },
             {
                 "name": "PLURIELLE",
-                "type": "Féminin",
-                "url": "https://www.plurielle.ma"
+                "url": "https://www.plurielle.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Féminin",
+                "createdAt": "2010-01-01"
             },
             {
                 "name": "SANTE+",
-                "type": "Santé",
-                "url": "https://www.santeplus.ma"
+                "url": "https://www.santeplus.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Santé",
+                "createdAt": "2011-01-01"
             },
             {
                 "name": "TEL QUEL",
-                "type": "Info",
-                "url": "https://www.telquel.ma"
+                "url": "https://www.telquel.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Info",
+                "createdAt": "2001-01-01"
             },
             {
                 "name": "VERSION HOMME",
-                "type": "Masculin",
-                "url": "https://www.versionhomme.ma"
+                "url": "https://www.versionhomme.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Masculin",
+                "createdAt": "2012-01-01"
             },
             {
                 "name": "VUE SUR MER",
-                "type": "Tourisme",
-                "url": "https://www.vuesurmer.ma"
+                "url": "https://www.vuesurmer.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Tourisme",
+                "createdAt": "2015-01-01"
             },
             {
                 "name": "ZAMANE",
-                "type": "Histoire",
-                "url": "https://www.zamane.ma"
+                "url": "https://www.zamane.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Histoire",
+                "createdAt": "2014-01-01"
             },
             {
                 "name": "AL AYAM",
-                "type": "hebdo d'information",
-                "url": "https://www.alayams.ma"
+                "url": "https://www.alayams.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "hebdo d'information",
+                "createdAt": "2015-01-01"
             },
             {
                 "name": "AL MOUNTAKHAB",
-                "type": "hebdo sport",
-                "url": "https://www.almountakhab.com"
+                "url": "https://www.almountakhab.com",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "hebdo sport",
+                "createdAt": "2015-01-01"
             },
             {
                 "name": "BAB MAGAZINE",
-                "type": "Société",
-                "url": "https://www.babmagazine.ma"
+                "url": "https://www.babmagazine.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Société",
+                "createdAt": "2010-01-01"
             },
             {
                 "name": "LALLAFATEMA",
-                "type": "Féminin",
-                "url": "https://www.lallafatema.ma"
+                "url": "https://www.lallafatema.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Féminin",
+                "createdAt": "2014-01-01"
             },
             {
                 "name": "ZAMANE",
-                "type": "Histoire",
-                "url": "https://www.zamane.ma"
+                "url": "https://www.zamane.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Histoire",
+                "createdAt": "2014-01-01"
             },
             {
                 "name": "ZAHRAT AL KHALEEJ",
-                "type": "Féminin",
-                "url": "https://www.zahratalkhaleej.ma"
+                "url": "https://www.zahratalkhaleej.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "Féminin",
+                "createdAt": "2020-01-01"
             }
         ]
     }
+    
 ]
