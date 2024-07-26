@@ -40,7 +40,7 @@ body {
     position: fixed; /* Fixed position */
     bottom: 0;
     width: 100%;
-    height: 30px; /* Increased height for better text visibility */
+    height: 40px; /* Increased height for better text visibility */
     padding: 20px 0; /* Added padding for better spacing */
     box-sizing: border-box; /* Ensures padding is included in the height */
     text-align: center;

@@ -13,8 +13,11 @@
     <link rel="icon" type="img/icon" href="./img/icon.png">
 </head>
 <body >
+
+    <!-- Navigator -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand" href="#">Medias</a>
+
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -28,20 +31,31 @@
             <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
           </form>
         </div>
-      </nav>
+    </nav>
+    <!-- End Navigator -->
+    
+    <!-- Compteur -->
+    <!-- <div>
+        <span id="counter">0</span> visites
+    </div> -->
+    <!-- End Compteur -->
+
     <div class="container mt-5">
         <div class="row" id="media-list">
             <!-- Media cards will be inserted here by app.js -->
         </div>
     </div>
+ 
 
     <!-- Footer Section -->
-    <footer class="footer bg-light text-center py-3">
+    <footer class="footer bg-light text-center py-4">
+        <span id="counter">0</span> visites
         <div class="container">
-            <p class="m-0" id="footer-text">© Media List. All rights reserved.</p>
+            <p class="m-0" id="footer-text">© Media List. All rights reserved.</p> 
         </div>
     </footer>
-    
+    <!-- End Footer Section -->
+
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
