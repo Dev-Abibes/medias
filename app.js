@@ -67,7 +67,13 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 data.forEach(category => {
                     category.media.forEach(media => {
-                        if (media.name.toLowerCase().includes(query) || media.url.toLowerCase().includes(query)) {
+                        if (media.name.toLowerCase().includes(query) || 
+                            media.url.toLowerCase().includes(query) || 
+                            media.langue.toLowerCase().includes(query) || 
+                            media.pays.toLowerCase().includes(query) ||
+                            media.typeMedia.toLowerCase().includes(query) ||
+                            media.createdAt.toLowerCase().includes(query)
+                        ){
                             const mediaCard = `
                                 <div class="col-md-3 mb-4">
                                     <a href="${media.url}" class="card-link" target="_blank">

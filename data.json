@@ -904,278 +904,556 @@
         ]
     },
     {
-        "category":"Press Dz",
+        "category": "Press Dz",
         "media": [
             {
-                "name": "El Watan",
+                "name": "El Watan الوطـن",
                 "url": "https://www.elwatan.com",
-                "social": {
-                    "facebook": "https://www.facebook.com/elwatan"
-                }
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "1990-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Echorouk",
+                "name": "الشروق",
                 "url": "https://www.echorouk.com",
-                "social": {
-                    "youtube": "https://www.youtube.com/user/echorouk",
-                    "facebook": "https://www.facebook.com/echorouk"
-                }
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "1990-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Elbilad",
+                "name": "البلاد",
                 "url": "https://www.elbilad.net",
-                "social": {
-                    "youtube": "https://www.youtube.com/user/ElbiladTV",
-                    "facebook": "https://www.facebook.com/elbilad.net"
-                }
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "2000-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Ennahar",
+                "name": "النهار",
                 "url": "https://www.ennaharonline.com",
-                "social": {
-                    "youtube": "https://www.youtube.com/user/ennahar",
-                    "facebook": "https://www.facebook.com/ennaharonline"
-                }
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "2004-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "El Khabar",
+                "name": "الخبر",
                 "url": "https://www.elkhabar.com",
-                "social": {
-                    "youtube": "https://www.youtube.com/user/elkhabar",
-                    "facebook": "https://www.facebook.com/elkhabar"
-                }
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "1990-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Akhbar El Youm",
+                "name": "أخبار اليوم",
                 "url": "https://www.akhbar-el-yawm.dz",
-                "social": {
-                    "facebook": "https://www.facebook.com/AkhbarElYoum"
-                }
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "2009-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Elmassar Elarabi",
+                "name": "المسار العربي",
                 "url": "https://www.elmassar-elarabi.com",
-                "social": {
-                    "youtube": "https://www.youtube.com/channel/UC6f3JGVL0x6-VYt4X62R_LQ",
-                    "facebook": "https://www.facebook.com/ElmassarElarabi"
-                }
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "2009-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Ech-chaab",
+                "name": "الشعب",
                 "url": "https://www.ech-chaab.com",
-                "social": {
-                    "youtube": "https://www.youtube.com/channel/UCzz6TZSB6efWmFzZk8x6JxA",
-                    "facebook": "https://www.facebook.com/echchaab"
-                }
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "1962-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Akher Saa",
+                "name": "آخر ساعة",
                 "url": "https://www.akher-saa.dz",
-                "social": {
-                    "facebook": "https://www.facebook.com/AkherSaa"
-                }
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "2007-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "El Djoumhouria",
+                "name": "الجمهورية",
                 "url": "https://www.el-djoumhouria.dz",
-                "social": {
-                    "facebook": "https://www.facebook.com/eldjoumhouria"
-                }
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "1962-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "An Nasr",
+                "name": "النصر",
                 "url": "https://www.an-nasr.dz",
-                "social": {
-                    "facebook": "https://www.facebook.com/AnNasr"
-                }
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "1963-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "El Massa",
-                "url": "https://www.elmassa.dz"
+                "name": "المساء",
+                "url": "https://www.elmassa.dz",
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "1990-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Djelfa Info",
+                "name": "جلفة إنفو",
                 "url": "https://www.djelfa.info",
-                "social": {
-                    "youtube": "https://www.youtube.com/channel/UCk8H4wGRwW2EwS2VtGg5J4Q",
-                    "facebook": "https://www.facebook.com/DjelfaInfo"
-                }
+                "typeMedia": "site d'information",
+                "langue": "arabe",
+                "createdAt": "2008-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Algeria Press Online",
-                "url": "https://www.algeria-press.com"
+                "name": "الجزائر برس أونلاين",
+                "url": "https://www.algeria-press.com",
+                "typeMedia": "site d'information",
+                "langue": "arabe",
+                "createdAt": "2009-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "APS",
+                "name": "APS أ.ب.س",
                 "url": "https://www.aps.dz",
-                "social": {
-                    "youtube": "https://www.youtube.com/channel/UC_s6lHgKfxe9g4ldZlzbRZw",
-                    "facebook": "https://www.facebook.com/aps.dz"
-                }
+                "typeMedia": "agence de presse",
+                "langue": "arabe",
+                "createdAt": "1961-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "El-Djeich",
-                "url": "https://www.el-djeich.dz"
+                "name": "الجيش",
+                "url": "https://www.el-djeich.dz",
+                "typeMedia": "site d'information",
+                "langue": "arabe",
+                "createdAt": "2015-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "El Moudjahid",
+                "name": "المجاهد",
                 "url": "https://www.elmoudjahid.com",
-                "social": {
-                    "facebook": "https://www.facebook.com/el.moudjahid"
-                }
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "1965-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "ENTV",
+                "name": "التلفزيون الجزائري",
                 "url": "https://www.entv.dz",
-                "social": {
-                    "youtube": "https://www.youtube.com/user/ENTVAlgerie",
-                    "facebook": "https://www.facebook.com/ENTVAlgerie"
-                }
+                "typeMedia": "télévision",
+                "langue": "arabe",
+                "createdAt": "1956-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Radio Algérienne",
+                "name": "إذاعة الجزائر",
                 "url": "https://www.radioalgerie.dz",
-                "social": {
-                    "radio": "https://www.radioalgerie.dz",
-                    "youtube": "https://www.youtube.com/user/RadioAlgerienne",
-                    "facebook": "https://www.facebook.com/RadioAlgerienne"
-                }
+                "typeMedia": "radio",
+                "langue": "arabe",
+                "createdAt": "1962-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Horizons",
+                "name": "الأفق",
                 "url": "https://www.horizons.dz",
-                "social": {
-                    "facebook": "https://www.facebook.com/Horizons.dz"
-                }
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "1999-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Le Midi Libre",
-                "url": "https://www.lemidilibre.dz"
+                "name": "Midi Libre",
+                "url": "https://www.lemidilibre.dz",
+                "typeMedia": "quotidien",
+                "langue": "français",
+                "createdAt": "2000-01-01",
+                "pays": "Algérie"
             },
             {
                 "name": "CAP DZ",
-                "url": "https://www.capdz.com"
+                "url": "https://www.capdz.com",
+                "typeMedia": "site d'information",
+                "langue": "français",
+                "createdAt": "2010-01-01",
+                "pays": "Algérie"
             },
             {
                 "name": "CIP",
-                "url": "https://www.cip-algerie.com"
+                "url": "https://www.cip-algerie.com",
+                "typeMedia": "site d'information",
+                "langue": "français",
+                "createdAt": "2009-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Le Jeune Indépendant",
+                "name": "الشروق",
                 "url": "https://www.jeune-independant.net",
-                "social": {
-                    "facebook": "https://www.facebook.com/lejeuneindependant"
-                }
+                "typeMedia": "quotidien",
+                "langue": "français",
+                "createdAt": "2000-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Le Courrier d'Algérie",
-                "url": "https://www.lecourrierdalgerie.com"
+                "name": "الجزائر نيوز",
+                "url": "https://www.lecourrierdalgerie.com",
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "2004-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Le Jour d'Algérie",
-                "url": "https://www.lejourdalgerie.com"
+                "name": "Le Jour d'Algerie ",
+                "url": "https://www.lejourdalgerie.com",
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "2000-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Les Echos De Sidi Bel Abbes",
+                "name": "Les Echos",
                 "url": "https://www.lesechos.dz",
-                "social": {
-                    "facebook": "https://www.facebook.com/LesEchosSidiBelAbbes"
-                }
+                "typeMedia": "site d'information",
+                "langue": "arabe",
+                "createdAt": "2012-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Annaba city.net",
+                "name": "Annaba City",
                 "url": "https://www.annabacity.net",
-                "social": {
-                    "facebook": "https://www.facebook.com/AnnabaCityNet"
-                }
+                "typeMedia": "site d'information",
+                "langue": "arabe",
+                "createdAt": "2008-01-01",
+                "pays": "Algérie"
             },
             {
                 "name": "Le Provincial",
                 "url": "https://www.leprovincial.dz",
-                "social": {
-                    "facebook": "https://www.facebook.com/LeProvincial"
-                }
+                "typeMedia": "site d'information",
+                "langue": "arabe",
+                "createdAt": "2013-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "L'Expression",
-                "url": "https://www.lexpression.dz"
+                "name": "L'Expression التعبير",
+                "url": "https://www.lexpression.dz",
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "1990-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Le Soir d'Algérie",
-                "url": "https://www.lesoirdalgerie.com"
+                "name": "Le Soir d'Algerie",
+                "url": "https://www.lesoirdalgerie.com",
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "2005-01-01",
+                "pays": "Algérie"
             },
             {
                 "name": "DK News",
                 "url": "https://www.dknews.dz",
-                "social": {
-                    "facebook": "https://www.facebook.com/DKNewsDZ"
-                }
+                "typeMedia": "site d'information",
+                "langue": "arabe",
+                "createdAt": "2016-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "L’Echo d'Algérie",
+                "name": "Lecho Dz",
                 "url": "https://www.lecho-dz.com",
-                "social": {
-                    "facebook": "https://www.facebook.com/lechoalgerie"
-                }
+                "typeMedia": "site d'information",
+                "langue": "arabe",
+                "createdAt": "2017-01-01",
+                "pays": "Algérie"
             },
-           
             {
-                "name": "Dernières Infos d'Algérie",
+                "name": "أخبار الجزائر",
                 "url": "https://www.dernières-infos.dz",
-                "social": {
-                    "facebook": "https://www.facebook.com/DernieresInfosDZ"
-                }
+                "typeMedia": "site d'information",
+                "langue": "arabe",
+                "createdAt": "2020-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Eco Times",
+                "name": "Eco Times أوقات",
                 "url": "https://www.ecotimes.dz",
-                "social": {
-                    "facebook": "https://www.facebook.com/EcoTimesDZ"
-                }
+                "typeMedia": "site d'information",
+                "langue": "arabe",
+                "createdAt": "2021-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Transaction d'Algérie",
-                "url": "https://www.transaction-algerie.com"
+                "name": "معاملات الجزائر",
+                "url": "https://www.transaction-algerie.com",
+                "typeMedia": "site d'information",
+                "langue": "arabe",
+                "createdAt": "2018-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Le Maghreb",
-                "url": "https://www.lemaghreb.dz"
+                "name": "المغرب",
+                "url": "https://www.lemaghreb.dz",
+                "typeMedia": "site d'information",
+                "langue": "arabe",
+                "createdAt": "2000-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "L'Est Républicain",
+                "name": "الجمهورية",
                 "url": "https://www.lest-republicain.dz",
-                "social": {
-                    "facebook": "https://www.facebook.com/LestRepublicain"
-                }
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "1990-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Le Quotidien d'Oran",
-                "url": "https://www.lequotidien-oran.com"
+                "name": "الوطني",
+                "url": "https://www.lequotidien-oran.com",
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "1990-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "Le Quotidien de Constantine",
+                "name": "القدس",
                 "url": "https://www.lequotidiendeconstantine.dz",
-                "social": {
-                    "facebook": "https://www.facebook.com/LeQuotidienDeConstantine"
-                }
+                "typeMedia": "quotidien",
+                "langue": "arabe",
+                "createdAt": "1995-01-01",
+                "pays": "Algérie"
             },
             {
-                "name": "L'Echo d'Oran",
-                "url": "https://www.lecho-doran.dz"
+                "name": "إيـكو",
+                "url": "https://www.lecho-doran.dz",
+                "typeMedia": "site d'information",
+                "langue": "arabe",
+                "createdAt": "2022-01-01",
+                "pays": "Algérie"
             }
         ]
-    },
+    },    
     {
         "category": "Press Maroc",
         "media": [
             {
-                "name": "M.A.P maroc",
+                "name": "م.أ.ب المغرب",
                 "url": "https://www.map.ma/",
                 "img": "",
                 "langue": "arabe",
                 "pays": "Maroc",
                 "typeMedia": "hebdomadaire",
                 "createdAt": "1997-01-01"
+            },
+            {
+                "name": "البيان",
+                "url": "https://www.albayane.press.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "hebdomadaire",
+                "createdAt": "1984-01-01"
+            },
+            {
+                "name": "أوفايت",
+                "url": "https://www.aufait.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien gratuit",
+                "createdAt": "2012-01-01"
+            },
+            {
+                "name": "LE JOURNAL DE TANGER",
+                "url": "https://www.journaldetanger.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "hebdomadaire",
+                "createdAt": "2006-01-01"
+            },
+            {
+                "name": "التحرير",
+                "url": "https://www.liberation.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "2008-01-01"
+            },
+            {
+                "name": "الرأي",
+                "url": "https://www.lopinion.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "1995-01-01"
+            },
+            {
+                "name": "أخبار اليوم",
+                "url": "https://www.akhbaralyoum.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "2007-01-01"
+            },
+            {
+                "name": "الأحداث المغربية",
+                "url": "https://www.ahdath.info",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "1997-01-01"
+            },
+            {
+                "name": "العلم",
+                "url": "https://www.alalam.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "1970-01-01"
+            },
+            {
+                "name": "الأسبوعية",
+                "url": "https://www.alousboue.com",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "hebdomadaire",
+                "createdAt": "2000-01-01"
+            },
+            {
+                "name": "الحركة",
+                "url": "https://www.alharaka.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "1966-01-01"
+            },
+            {
+                "name": "الإتحاد الاشتراكي",
+                "url": "https://www.alittihad.info",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "1977-01-01"
+            },
+            {
+                "name": "المغربية",
+                "url": "https://www.maghribia.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "1997-01-01"
+            },
+            {
+                "name": "المساء",
+                "url": "https://www.almassae.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "2006-01-01"
+            },
+            {
+                "name": "المنتخب",
+                "url": "https://www.almountakhab.com",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "Bi Hebdo",
+                "createdAt": "1988-01-01"
+            },
+            {
+                "name": "الأخبار",
+                "url": "https://www.akhbar.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "2008-01-01"
+            },
+            {
+                "name": "النهار",
+                "url": "https://www.annahar.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "2011-01-01"
+            },
+            {
+                "name": "الصباح",
+                "url": "https://www.assabah.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "1959-01-01"
+            },
+            {
+                "name": "رسالة الأمة",
+                "url": "https://www.rissalat-al-omma.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "quotidien",
+                "createdAt": "2005-01-01"
+            },
+            {
+                "name": "الأيام",
+                "url": "https://www.alayams.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "hebdo d'information",
+                "createdAt": "2015-01-01"
+            },
+            {
+                "name": "المونتخب",
+                "url": "https://www.almountakhab.com",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "hebdo sport",
+                "createdAt": "2015-01-01"
+            },
+            {
+                "name": "زهرة الخليج",
+                "url": "https://www.zahratalkhaleej.ma",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "Féminin",
+                "createdAt": "2020-01-01"
+            },
+            {
+                "name": "LES ECO Maroc ",
+                "url": "https://leseco.ma/",
+                "img": "",
+                "langue": "arabe",
+                "pays": "Maroc",
+                "typeMedia": "Féminin",
+                "createdAt": "2020-01-01"
+            },
+            {
+                "name": "OH MAMAN",
+                "url": "https://www.ohmaman.ma",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "Féminin",
+                "createdAt": "2008-01-01"
             },
             {
                 "name": "ALBAYANE",
@@ -1211,33 +1489,6 @@
                 "langue": "français",
                 "pays": "Maroc",
                 "typeMedia": "hebdomadaire",
-                "createdAt": "2011-01-01"
-            },
-            {
-                "name": "LES INSPIRATIONS ECO",
-                "url": "https://www.lesinspirationseco.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "quotidien",
-                "createdAt": "2013-01-01"
-            },
-            {
-                "name": "L'ECONOMISTE",
-                "url": "https://www.leconomiste.com",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "quotidien economique",
-                "createdAt": "1991-01-01"
-            },
-            {
-                "name": "LE JOURNAL DE TANGER",
-                "url": "https://www.journaldetanger.ma",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "hebdomadaire",
                 "createdAt": "2006-01-01"
             },
             {
@@ -1247,603 +1498,46 @@
                 "langue": "français",
                 "pays": "Maroc",
                 "typeMedia": "quotidien",
-                "createdAt": "1951-01-01"
-            },
-            {
-                "name": "LE SOIR ECHOS",
-                "url": "https://www.lesoirechos.com",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "quotidien",
-                "createdAt": "2009-01-01"
-            },
-            {
-                "name": "LIBERATION",
-                "url": "https://www.liberation.ma",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "quotidien",
-                "createdAt": "2008-01-01"
-            },
-            {
-                "name": "L'OPINION",
-                "url": "https://www.lopinion.ma",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "quotidien",
-                "createdAt": "1995-01-01"
-            },
-            {
-                "name": "AKHBAR AL YOUM",
-                "url": "https://www.akhbaralyoum.ma",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "quotidien",
-                "createdAt": "2007-01-01"
-            },
-            {
-                "name": "AL AHDATH",
-                "url": "https://www.ahdath.info",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "quotidien",
-                "createdAt": "1997-01-01"
-            },
-            {
-                "name": "AL ALAM",
-                "url": "https://www.alalam.ma",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "quotidien",
                 "createdAt": "1970-01-01"
             },
             {
-                "name": "ALOUSBOUE",
-                "url": "https://www.alousboue.com",
+                "name": "L'OBSERVATEUR",
+                "url": "https://www.observalgerie.com",
                 "img": "",
-                "langue": "arabe",
+                "langue": "français",
                 "pays": "Maroc",
                 "typeMedia": "hebdomadaire",
-                "createdAt": "2000-01-01"
+                "createdAt": "2015-01-01"
             },
             {
-                "name": "AL HARAKA",
-                "url": "https://www.alharaka.ma",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "quotidien",
-                "createdAt": "1966-01-01"
-            },
-            {
-                "name": "AL ITTIHAD",
-                "url": "https://www.alittihad.info",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "quotidien",
-                "createdAt": "1977-01-01"
-            },
-            {
-                "name": "AL MAGHRIBIA",
-                "url": "https://www.maghribia.ma",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "quotidien",
-                "createdAt": "1997-01-01"
-            },
-            {
-                "name": "AL MASSAE",
-                "url": "https://www.almassae.ma",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "quotidien",
-                "createdAt": "2006-01-01"
-            },
-            {
-                "name": "ALMOUNTAKHAB",
-                "url": "https://www.almountakhab.com",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "Bi Hebdo",
-                "createdAt": "1988-01-01"
-            },
-            {
-                "name": "AL AKHBAR",
-                "url": "https://www.akhbar.ma",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "quotidien",
-                "createdAt": "2008-01-01"
-            },
-            {
-                "name": "ANNAHAR",
-                "url": "https://www.annahar.ma",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "quotidien",
-                "createdAt": "2011-01-01"
-            },
-            {
-                "name": "ASSABAH",
-                "url": "https://www.assabah.ma",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "quotidien",
-                "createdAt": "1959-01-01"
-            },
-            {
-                "name": "RISSALAT AL OMMA",
-                "url": "https://www.rissalat-al-omma.ma",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "quotidien",
-                "createdAt": "2005-01-01"
-            },
-            {
-                "name": "A+E",
-                "url": "https://www.ae-mag.com",
+                "name": "MAGHREB ÉMERGENT",
+                "url": "https://www.maghrebemergent.com",
                 "img": "",
                 "langue": "français",
                 "pays": "Maroc",
-                "typeMedia": "Architecture et Environnement",
+                "typeMedia": "site d'actualité",
+                "createdAt": "2010-01-01"
+            },
+            {
+                "name": "MEDIAS24",
+                "url": "https://www.medias24.com",
+                "img": "",
+                "langue": "français",
+                "pays": "Maroc",
+                "typeMedia": "site d'actualité",
                 "createdAt": "2007-01-01"
             },
             {
-                "name": "AGRICULTURE DU MAGHREB",
-                "url": "https://www.agriculturemaghreb.com",
+                "name": "JEUNE AFRIQUE",
+                "url": "https://www.jeuneafrique.com",
                 "img": "",
                 "langue": "français",
                 "pays": "Maroc",
-                "typeMedia": "Presse Professionelle",
-                "createdAt": "1990-01-01"
-            },
-            {
-                "name": "AUTO NEWS",
-                "url": "https://www.autonews.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Auto",
-                "createdAt": "2010-01-01"
-            },
-            {
-                "name": "ART DE VIVRE MAG",
-                "url": "https://www.artdevivremag.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Déco",
-                "createdAt": "2008-01-01"
-            },
-            {
-                "name": "CHALLENGE HEBDO",
-                "url": "https://www.challengehebdo.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Business",
-                "createdAt": "2011-01-01"
-            },
-            {
-                "name": "CHANTIERS DU MAROC",
-                "url": "https://www.chantiersdumaroc.com",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Construction et BTP",
-                "createdAt": "2004-01-01"
-            },
-            {
-                "name": "CINE NEWS",
-                "url": "https://www.cinenews.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Culture",
-                "createdAt": "2009-01-01"
-            },
-            {
-                "name": "COULEURS MAROC",
-                "url": "https://www.couleursmaroc.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Culture",
-                "createdAt": "2010-01-01"
-            },
-            {
-                "name": "DIPLOMATICA MAG",
-                "url": "https://www.diplomatica-mag.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Info",
-                "createdAt": "2006-01-01"
-            },
-            {
-                "name": "ECONOMIE ENTREPRISES",
-                "url": "https://www.economieentreprises.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Eco",
-                "createdAt": "2010-01-01"
-            },
-            {
-                "name": "DIPTYK MAG",
-                "url": "https://www.diptyk-mag.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Culture",
-                "createdAt": "2012-01-01"
-            },
-            {
-                "name": "FAMILLE ACTUELLE",
-                "url": "https://www.familleactuelle.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Famille",
-                "createdAt": "2007-01-01"
-            },
-            {
-                "name": "FINANCE NEWS",
-                "url": "https://www.financenews.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Finance",
-                "createdAt": "2009-01-01"
-            },
-            {
-                "name": "GRAZIA MAROC",
-                "url": "https://www.grazia.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Féminin",
-                "createdAt": "2013-01-01"
-            },
-            {
-                "name": "FEMMES DU MAROC",
-                "url": "https://www.femmesdumaroc.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Féminin",
-                "createdAt": "2010-01-01"
-            },
-            {
-                "name": "FOOD MAGAZINE",
-                "url": "https://www.foodmagazine.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Agroalimentaire",
-                "createdAt": "2012-01-01"
-            },
-            {
-                "name": "GOLF DU MAROC",
-                "url": "https://www.golfdumaroc.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Sport",
-                "createdAt": "2008-01-01"
-            },
-            {
-                "name": "ICONES",
-                "url": "https://www.icones.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Féminin",
-                "createdAt": "2015-01-01"
-            },
-            {
-                "name": "ID PRESTIGE",
-                "url": "https://www.idprestige.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Déco",
-                "createdAt": "2009-01-01"
-            },
-            {
-                "name": "ILLI",
-                "url": "https://www.illi.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Féminin",
-                "createdAt": "2014-01-01"
-            },
-            {
-                "name": "INFO MAGAZINE",
-                "url": "https://www.infomagazine.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Informatique",
-                "createdAt": "2012-01-01"
-            },
-            {
-                "name": "INDUSTRIE DU MAROC",
-                "url": "https://www.industriemaroc.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Industrie",
-                "createdAt": "2006-01-01"
-            },
-            {
-                "name": "L'INTERMEDIAIRE",
-                "url": "https://www.intermediaire.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Annonces",
-                "createdAt": "2008-01-01"
-            },
-            {
-                "name": "LABEL BEAUTE MAGAZINE",
-                "url": "https://www.labelbeaute.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Féminin",
-                "createdAt": "2010-01-01"
-            },
-            {
-                "name": "LA NOUVELLE TRIBUNE",
-                "url": "https://www.lanouvelletribune.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Info",
-                "createdAt": "2009-01-01"
-            },
-            {
-                "name": "LA REVUE AUTO",
-                "url": "https://www.larevueauto.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Auto",
-                "createdAt": "2012-01-01"
-            },
-            {
-                "name": "LA VIE ECO",
-                "url": "https://www.lavieeco.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Eco",
-                "createdAt": "1997-01-01"
-            },
-            {
-                "name": "LES INSPIRATIONS ECO",
-                "url": "https://www.lesinspirationseco.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Eco",
-                "createdAt": "2013-01-01"
-            },
-            {
-                "name": "L'OBSERVATEUR",
-                "url": "https://www.lobservateur.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Info",
-                "createdAt": "2003-01-01"
-            },
-            {
-                "name": "L'OFFICIEL",
-                "url": "https://www.lofficiel.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Féminin",
-                "createdAt": "2007-01-01"
-            },
-            {
-                "name": "L'OFFICIEL HOMME",
-                "url": "https://www.lofficielhomme.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Masculin",
-                "createdAt": "2012-01-01"
-            },
-            {
-                "name": "LOGIC IMMO MAROC",
-                "url": "https://www.logicimmomaroc.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Immobilier",
-                "createdAt": "2010-01-01"
-            },
-            {
-                "name": "LE CANARD LIBERE",
-                "url": "https://www.lecanardlibere.com",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Satirique",
-                "createdAt": "2002-01-01"
-            },
-            {
-                "name": "MAROC DIPLOMATIQUE",
-                "url": "https://www.marocdiplomatique.com",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Info",
-                "createdAt": "2005-01-01"
-            },
-            {
-                "name": "MAROC HEBDO",
-                "url": "https://www.marochebd.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Info",
-                "createdAt": "1997-01-01"
-            },
-            {
-                "name": "MAISON DU MAROC",
-                "url": "https://www.maisondu-maroc.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Maison Déco",
-                "createdAt": "2015-01-01"
-            },
-            {
-                "name": "METROPOLIS",
-                "url": "https://www.metropolis.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Culture",
-                "createdAt": "2008-01-01"
-            },
-            {
-                "name": "OH MAMAN",
-                "url": "https://www.ohmaman.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Féminin",
-                "createdAt": "2008-01-01"
-            },
-            {
-                "name": "PLURIELLE",
-                "url": "https://www.plurielle.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Féminin",
-                "createdAt": "2010-01-01"
-            },
-            {
-                "name": "SANTE+",
-                "url": "https://www.santeplus.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Santé",
-                "createdAt": "2011-01-01"
-            },
-            {
-                "name": "TEL QUEL",
-                "url": "https://www.telquel.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Info",
-                "createdAt": "2001-01-01"
-            },
-            {
-                "name": "VERSION HOMME",
-                "url": "https://www.versionhomme.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Masculin",
-                "createdAt": "2012-01-01"
-            },
-            {
-                "name": "VUE SUR MER",
-                "url": "https://www.vuesurmer.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Tourisme",
-                "createdAt": "2015-01-01"
-            },
-            {
-                "name": "ZAMANE",
-                "url": "https://www.zamane.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Histoire",
-                "createdAt": "2014-01-01"
-            },
-            {
-                "name": "AL AYAM",
-                "url": "https://www.alayams.ma",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "hebdo d'information",
-                "createdAt": "2015-01-01"
-            },
-            {
-                "name": "AL MOUNTAKHAB",
-                "url": "https://www.almountakhab.com",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "hebdo sport",
-                "createdAt": "2015-01-01"
-            },
-            {
-                "name": "BAB MAGAZINE",
-                "url": "https://www.babmagazine.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Société",
-                "createdAt": "2010-01-01"
-            },
-            {
-                "name": "LALLAFATEMA",
-                "url": "https://www.lallafatema.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Féminin",
-                "createdAt": "2014-01-01"
-            },
-            {
-                "name": "ZAMANE",
-                "url": "https://www.zamane.ma",
-                "img": "",
-                "langue": "français",
-                "pays": "Maroc",
-                "typeMedia": "Histoire",
-                "createdAt": "2014-01-01"
-            },
-            {
-                "name": "ZAHRAT AL KHALEEJ",
-                "url": "https://www.zahratalkhaleej.ma",
-                "img": "",
-                "langue": "arabe",
-                "pays": "Maroc",
-                "typeMedia": "Féminin",
-                "createdAt": "2020-01-01"
+                "typeMedia": "hebdomadaire",
+                "createdAt": "1960-01-01"
             }
         ]
     }
+    
     
 ]
