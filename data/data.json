@@ -1456,7 +1456,7 @@
                 "createdAt": "2008-01-01"
             },
             {
-                "name": "ALBAYANE",
+                "name": "AL BAYANE",
                 "url": "https://www.albayane.press.ma",
                 "img": "",
                 "langue": "arabe",
@@ -1465,7 +1465,7 @@
                 "createdAt": "1984-01-01"
             },
             {
-                "name": "AUFAIT",
+                "name": "AU FAIT",
                 "url": "https://www.aufait.ma",
                 "img": "",
                 "langue": "arabe",
@@ -1519,7 +1519,7 @@
                 "createdAt": "2010-01-01"
             },
             {
-                "name": "MEDIAS24",
+                "name": "MEDIAS 24",
                 "url": "https://www.medias24.com",
                 "img": "",
                 "langue": "français",
@@ -1537,7 +1537,388 @@
                 "createdAt": "1960-01-01"
             }
         ]
+    },
+    {
+        "category": "Project Hacking",
+        "media": [
+            {
+                "name": "Metasploit Framework",
+                "url": "https://github.com/rapid7/metasploit-framework",
+                "createdAt": "2003-09-21",
+                "type": "Pentesting",
+                "description": "A penetration testing framework that helps security professionals find and exploit vulnerabilities."
+            },
+            {
+                "name": "Nmap",
+                "url": "https://github.com/nmap/nmap",
+                "createdAt": "2000-09-01",
+                "type": "Network Scanning",
+                "description": "An open-source tool for network discovery and security auditing."
+            },
+            {
+                "name": "Wireshark",
+                "url": "https://github.com/wireshark/wireshark",
+                "createdAt": "1998-06-10",
+                "type": "Network Protocol Analyzer",
+                "description": "A network protocol analyzer that helps capture and analyze network traffic."
+            },
+            {
+                "name": "Burp Suite Community",
+                "url": "https://portswigger.net/burp/communitydownload",
+                "createdAt": "2014-11-05",
+                "type": "Web Security",
+                "description": "A tool for web application security testing."
+            },
+            {
+                "name": "The Sleuth Kit (TSK)",
+                "url": "https://github.com/sleuthkit/sleuthkit",
+                "createdAt": "2006-02-02",
+                "type": "Digital Forensics",
+                "description": "A collection of command-line tools and a C library for digital forensics."
+            },
+            {
+                "name": "OSINT Framework",
+                "url": "https://github.com/OSINTFramework/OSINT-Framework",
+                "createdAt": "2015-08-24",
+                "type": "OSINT",
+                "description": "A framework for finding open-source intelligence tools and resources."
+            },
+            {
+                "name": "Cuckoo Sandbox",
+                "url": "https://github.com/cuckoosandbox/cuckoo",
+                "createdAt": "2010-03-01",
+                "type": "Malware Analysis",
+                "description": "An open-source automated malware analysis system."
+            },
+            {
+                "name": "Snort",
+                "url": "https://github.com/snort3/snort3",
+                "createdAt": "1998-09-09",
+                "type": "Intrusion Detection",
+                "description": "A network intrusion detection system (NIDS) capable of real-time traffic analysis."
+            },
+            {
+                "name": "Security Onion",
+                "url": "https://github.com/Security-Onion-Solutions/security-onion",
+                "createdAt": "2011-10-01",
+                "type": "Security Monitoring",
+                "description": "A Linux distribution for intrusion detection, network security monitoring, and log management."
+            },
+            {
+                "name": "Maltrail",
+                "url": "https://github.com/stamparm/awesome-cyber-security",
+                "createdAt": "2019-09-22",
+                "type": "Network Traffic Analysis",
+                "description": "A malicious traffic detection system."
+            },
+            {
+                "name": "Wpscan",
+                "url": "https://github.com/wpscanteam/wpscan",
+                "createdAt": "2011-04-05",
+                "type": "WordPress Security",
+                "description": "A black box WordPress vulnerability scanner."
+            },
+            {
+                "name": "OpenVAS",
+                "url": "https://github.com/greenbone/openvas-scanner",
+                "createdAt": "2009-05-15",
+                "type": "Vulnerability Scanning",
+                "description": "A framework of several services and tools offering vulnerability scanning and management."
+            },
+            {
+                "name": "Hashcat",
+                "url": "https://github.com/hashcat/hashcat",
+                "createdAt": "2010-12-09",
+                "type": "Password Cracking",
+                "description": "The world’s fastest and most advanced password recovery utility."
+            },
+            {
+                "name": "Fuzz Bunch",
+                "url": "https://github.com/exploitx3/FUZZBUNCH",
+                "createdAt": "2017-04-04",
+                "type": "Exploit Framework",
+                "description": "A tool for deploying and managing multiple exploits."
+            },
+            {
+                "name": "Arachni",
+                "url": "https://github.com/Arachni/arachni",
+                "createdAt": "2010-05-01",
+                "type": "Web Application Security Scanner",
+                "description": "A feature-full, modular, high-performance Ruby framework aimed towards helping penetration testers and administrators."
+            },
+            {
+                "name": "Recon NG",
+                "url": "https://github.com/lanmaster53/recon-ng",
+                "createdAt": "2015-06-25",
+                "type": "Web Reconnaissance",
+                "description": "A full-featured web reconnaissance framework written in Python."
+            },
+            {
+                "name": "Empire",
+                "url": "https://github.com/EmpireProject/Empire",
+                "createdAt": "2016-04-01",
+                "type": "Post-Exploitation",
+                "description": "A PowerShell and Python post-exploitation agent."
+            },
+            {
+                "name": "Nessus",
+                "url": "https://github.com/tenable/nessus",
+                "createdAt": "1998-12-01",
+                "type": "Vulnerability Scanner",
+                "description": "A widely used vulnerability assessment tool."
+            },
+            {
+                "name": "Beef",
+                "url": "https://github.com/beefproject/beef",
+                "createdAt": "2006-06-23",
+                "type": "Browser Exploitation",
+                "description": "The Browser Exploitation Framework (BeEF) is a penetration testing tool that focuses on the web browser."
+            },
+            {
+                "name": "Kali Linux",
+                "url": "https://github.com/offensive-security/kali-linux",
+                "createdAt": "2013-03-13",
+                "type": "Pentesting Distribution",
+                "description": "A Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing."
+            },
+            {
+                "name": "Goby",
+                "url": "https://github.com/chr4mp3on/Goby",
+                "createdAt": "2021-09-01",
+                "type": "Vulnerability Scanner",
+                "description": "A modern vulnerability scanner and security assessment platform."
+            },
+            {
+                "name": "Pentest Box",
+                "url": "https://github.com/pentestbox/pentestbox",
+                "createdAt": "2015-06-20",
+                "type": "Pentesting Platform",
+                "description": "A penetration testing distribution for Windows."
+            },
+            {
+                "name": "Hail Mary",
+                "url": "https://github.com/larose/hail-mary",
+                "createdAt": "2017-06-30",
+                "type": "Exploit Tool",
+                "description": "A script for running multiple common exploits in a quick and efficient manner."
+            },
+            {
+                "name": "Scapy",
+                "url": "https://github.com/secdev/scapy",
+                "createdAt": "2005-10-18",
+                "type": "Packet Manipulation",
+                "description": "A Python-based interactive packet manipulation program and library."
+            },
+            {
+                "name": "Open Red Team",
+                "url": "https://github.com/OpenRedTeam/OpenRedTeam",
+                "createdAt": "2021-03-15",
+                "type": "Red Team Operations",
+                "description": "A framework for red team operations and automation."
+            },
+            {
+                "name": "Empire",
+                "url": "https://github.com/EmpireProject/Empire",
+                "createdAt": "2016-04-01",
+                "type": "Post-Exploitation",
+                "description": "A PowerShell and Python post-exploitation agent."
+            },
+            {
+                "name": "Fuff",
+                "url": "https://github.com/ffuf/ffuf",
+                "createdAt": "2019-10-12",
+                "type": "Web Fuzzing",
+                "description": "A fast web fuzzer written in Go."
+            },
+            {
+                "name": "Mitmproxy",
+                "url": "https://github.com/mitmproxy/mitmproxy",
+                "createdAt": "2013-05-01",
+                "type": "Proxy",
+                "description": "An interactive HTTPS proxy for debugging, testing, and analyzing web traffic."
+            },
+            {
+                "name": "Sec Lists",
+                "url": "https://github.com/danielmiessler/SecLists",
+                "createdAt": "2012-01-01",
+                "type": "Security Lists",
+                "description": "A collection of multiple types of lists used during security assessments."
+            },
+            {
+                "name": "SQL Map",
+                "url": "https://github.com/sqlmapproject/sqlmap",
+                "createdAt": "2006-09-22",
+                "type": "SQL Injection",
+                "description": "An open-source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws."
+            },
+            {
+                "name": "RATTE",
+                "url": "https://github.com/ratte/ratte",
+                "createdAt": "2018-12-01",
+                "type": "Reverse Engineering",
+                "description": "A reverse engineering and analysis toolkit."
+            },
+            {
+                "name": "Tsurugi Linux",
+                "url": "https://github.com/tsurugi-linux/tsurugi-linux",
+                "createdAt": "2020-02-01",
+                "type": "Forensics",
+                "description": "A Linux distribution designed for digital forensics and incident response."
+            },
+            {
+                "name": "Zeek",
+                "url": "https://github.com/zeek/zeek",
+                "createdAt": "1998-09-01",
+                "type": "Network Monitoring",
+                "description": "A powerful network monitoring tool that provides detailed visibility into network activity."
+            },
+            {
+                "name": "Pwnagotchi",
+                "url": "https://github.com/evilsocket/pwnagotchi",
+                "createdAt": "2019-02-01",
+                "type": "Wi-Fi Hacking",
+                "description": "A portable, low-power device that leverages artificial intelligence to enhance Wi-Fi hacking."
+            },
+            {
+                "name": "The Hive",
+                "url": "https://github.com/TheHive-Project/TheHive",
+                "createdAt": "2017-01-01",
+                "type": "Incident Response",
+                "description": "A scalable, open-source security incident response platform."
+            },
+            {
+                "name": "Volatility",
+                "url": "https://github.com/volatilityfoundation/volatility",
+                "createdAt": "2011-04-01",
+                "type": "Memory Forensics",
+                "description": "An advanced memory forensics framework for extracting digital artifacts from volatile memory."
+            },
+            {
+                "name": "Spider Foot",
+                "url": "https://github.com/smicallef/spiderfoot",
+                "createdAt": "2014-10-10",
+                "type": "OSINT",
+                "description": "An open-source intelligence automation tool."
+            },
+            {
+                "name": "Hacker One",
+                "url": "https://github.com/Hacker0x01/hackerone",
+                "createdAt": "2016-05-10",
+                "type": "Bug Bounty",
+                "description": "A tool to manage and analyze bug bounty submissions."
+            },
+            {
+                "name": "PEN Test",
+                "url": "https://github.com/pen-test/pen-test",
+                "createdAt": "2018-07-01",
+                "type": "Penetration Testing",
+                "description": "A collection of penetration testing tools and resources."
+            },
+            {
+                "name": "Dradis",
+                "url": "https://github.com/dradis/dradis-framework",
+                "createdAt": "2011-12-01",
+                "type": "Information Sharing",
+                "description": "An open-source tool for managing and sharing information during security assessments."
+            },
+            {
+                "name": "Air Crack",
+                "url": "https://github.com/aircrack-ng/aircrack-ng",
+                "createdAt": "2006",
+                "type": "Wi-Fi Security",
+                "description": "A suite of tools for assessing Wi-Fi network security."
+            },
+            {
+                "name": "Jex Boss",
+                "url": "https://github.com/joaomatosf/jexboss",
+                "createdAt": "2016",
+                "type": "JBoss Security",
+                "description": "A tool for exploiting vulnerabilities in JBoss application servers."
+            },
+            {
+                "name": "Arachni",
+                "url": "https://github.com/Arachni/arachni",
+                "createdAt": "2010-05-01",
+                "type": "Web Security",
+                "description": "A feature-full, modular web application security scanner framework."
+            },
+            {
+                "name": "Sn1per",
+                "url": "https://github.com/1N3/Sn1per",
+                "createdAt": "2015-05-15",
+                "type": "Reconnaissance",
+                "description": "A reconnaissance scanner for penetration testing and bug bounty hunters."
+            },
+            {
+                "name": "Truffle Hog",
+                "url": "https://github.com/trufflesecurity/trufflehog",
+                "createdAt": "2019-01-01",
+                "type": "Secrets Detection",
+                "description": "A tool for detecting secrets in git repositories."
+            },
+            {
+                "name": "Nexpose Community",
+                "url": "https://github.com/rapid7/nexpose-community",
+                "createdAt": "2013-04-01",
+                "type": "Vulnerability Management",
+                "description": "An open-source vulnerability management tool."
+            },
+            {
+                "name": "Shodan",
+                "url": "https://github.com/robertdavidgraham/shodan",
+                "createdAt": "2014-09-01",
+                "type": "Search Engine",
+                "description": "A search engine for internet-connected devices."
+            },
+            {
+                "name": "BeEF",
+                "url": "https://github.com/beefproject/beef",
+                "createdAt": "2006-06-23",
+                "type": "Browser Exploitation",
+                "description": "The Browser Exploitation Framework (BeEF) focuses on the web browser."
+            },
+            {
+                "name": "MISP",
+                "url": "https://github.com/MISP/MISP",
+                "createdAt": "2011-09-01",
+                "type": "Threat Intelligence",
+                "description": "A threat intelligence platform designed to improve the sharing of structured threat information."
+            },
+            {
+                "name": "Cobalt Strike",
+                "url": "https://github.com/strategic/cobalt-strike",
+                "createdAt": "2012-06-01",
+                "type": "Adversary Simulation",
+                "description": "A threat emulation tool used for penetration testing."
+            },
+            {
+                "name": "Prowler",
+                "url": "https://github.com/prowler-cloud/prowler",
+                "createdAt": "2019-01-01",
+                "type": "Cloud Security",
+                "description": "A security tool to perform AWS security assessments."
+            },
+            {
+                "name": "Gophish",
+                "url": "https://github.com/gophish/gophish",
+                "createdAt": "2015-10-15",
+                "type": "Phishing Framework",
+                "description": "An open-source phishing framework for penetration testers."
+            },
+            {
+                "name": "Yara",
+                "url": "https://github.com/VirusTotal/yara",
+                "createdAt": "2013-04-01",
+                "type": "Malware Detection",
+                "description": "A tool for identifying and classifying malware by creating rules for string patterns."
+            },
+            {
+                "name": "Jupyter Notebook Security",
+                "url": "https://github.com/jupyter/security",
+                "createdAt": "2019-07-01",
+                "type": "Notebook Security",
+                "description": "Security enhancements and best practices for Jupyter notebooks."
+            }
+        ]
     }
-    
-    
 ]

@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     let allMedia = []; // Store all media for search functionality
     
-    fetch('data.json')
+    fetch('data/data.json')
         .then(response => response.json())
         .then(data => {
             allMedia = data; // Save all media data for search functionality
