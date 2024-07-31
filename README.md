@@ -19,7 +19,21 @@ MMMMMMMM MMMMMMMM MMMMMMMM MMMMMMMMMMMMMMMM MMMMMMMMMMMMMMMMMMMMMMMM   MMMMMMMM 
 ### Pourquoi un site open source ?
 - En tant que plateforme open source, notre site vise à promouvoir la transparence et la collaboration. En permettant à la communauté de contribuer à l'amélioration continue du répertoire et à la vérification des médias, nous garantissons que les informations restent précises et à jour. L'open source assure également que nos processus et critères de vérification sont accessibles à tous, renforçant ainsi la confiance et la sécurité des utilisateurs.
 
-### CATEGORIES DE MEDIAS
+### CATEGORIES DE MEDIL
+
+| Categories  |           | Aligné à droite |
+| :--------------- |:---------------:| -----:|
+| Hacking  |          |   |
+| Blog IT | est             |    |
+| Press Française  | centré          |    |
+| Press Algerienne  | centré          |     |
+| Press Marocaine | centré          |     |
+| Press Tunisiene  | centré          |    |
+| Press Belge  | centré          |     |
+| Press Canadienne  | centré          |     |
+| Press Africaine  | centré          |    |
+
+
 
 - Hacking
 - Blog IT
