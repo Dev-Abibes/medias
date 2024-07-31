@@ -21,26 +21,15 @@ MMMMMMMM MMMMMMMM MMMMMMMM MMMMMMMMMMMMMMMM MMMMMMMMMMMMMMMMMMMMMMMM   MMMMMMMM 
 
 ### CATEGORIES DE MEDIL
 
-| Categories  |           | Aligné à droite |
+| Categories  |    Langues       | Aligné à droite |
 | :--------------- |:---------------:| -----:|
-| Hacking  |          |   |
-| Blog IT | est             |    |
-| Press Française  | centré          |    |
-| Press Algerienne  | centré          |     |
-| Press Marocaine | centré          |     |
-| Press Tunisiene  | centré          |    |
-| Press Belge  | centré          |     |
-| Press Canadienne  | centré          |     |
-| Press Africaine  | centré          |    |
+| Hacking  | Anglais |   |
+| Blog IT | Anglais & Français |    |
+| Press Française  |  Français     |    |
+| Press Algerienne  | Français && Arabe   |     |
+| Press Marocaine | Français && Arabe   |     |
+| Press Tunisiene  | Français && Arabe  |    |
+| Press Belge  |  Anglais & Français |     |
+| Press Canadienne  | Anglais & Français  |     |
+| Press Africaine  | Anglais & Français |    |
 
-
-
-- Hacking
-- Blog IT
-- Press Française
-- Press Algerienne
-- Press Marocaine
-- Press Tunisiene
-- Press Belge
-- Press Canadienne
-- Press Africaine
