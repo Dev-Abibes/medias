@@ -69,54 +69,53 @@
 - `git bisect start` : Trouver le commit responsable d'un bug.
 
 
-1. feat (feature)
+1. `feat (feature)`
 ```bash
 git commit -m "feat(auth): add login with Google OAuth" `# Ajout d'une nouvelle fonctionnalité.
 ```
 
-2. fix
+2. `fix`
 ```bash
 git commit -m "fix(api): resolve timeout issue on data fetching" // Correction d'un bug.
 ```
 
-3. docs
-
+3. `docs`
 ```bash
 git commit -m "docs(readme): update installation instructions" // Mise à jour de la documentation.
 ```
-4. style
+4. `style`
 ```bash
 git commit -m "style(ui): apply consistent spacing in CSS" // Changements liés au style du code (formatage, indentation, etc.), sans impact fonctionnel.
 
 ```
-5. refactor
+5. `refactor`
 ```bash
 git commit -m "refactor(core): simplify user authentication logic" // Refactorisation du code sans ajout de fonctionnalité ni correction de bug.
 
 ```
-6. test
+6. `test`
 ```bash
 git commit -m "test(utils): add unit tests for string helper functions" // Ajout ou modification de tests.
 ```
-7. chore
+7. `chore`
 
 ```bash
 git commit -m "chore(deps): upgrade lodash to version 4.17.21" //Tâches de maintenance ou mises à jour de dépendances.
 ```
-8. perf
+8. `perf`
 
 ```bash
 git commit -m "perf(api): optimize database query for faster response" //Amélioration des performances.
 ```
-9. ci
+9. `ci`
 ```bash
 git commit -m "ci(pipeline): add GitHub Actions workflow for deployment" // Modifications liées à la configuration des outils CI/CD.
 ```
-10. build
+10. `build`
 ```bash
 git commit -m "build(config): update webpack to support ES modules" //Changements liés à la construction du projet (ex. configuration de Webpack, Dockerfile).
 ```
-11. revert
+11. `revert`
 
 ```bash
 git commit -m "revert(feat): remove recently added feature due to issues" //Annulation d'un commit précédent.
@@ -139,7 +138,7 @@ git commit -m "fix(auth): prevent infinite redirect loop on login
 Fixes an issue where users were redirected indefinitely
 when logging in with invalid credentials.
 
-Refs #123"
+`Refs #123"`
 - Description : Corrige une boucle de redirection infinie lors de la connexion avec des identifiants invalides, référencée dans l'issue #123.
 
 
