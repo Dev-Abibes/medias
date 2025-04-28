@@ -461,12 +461,21 @@
             }
         ]
     },
-    {
+    { 
         "category": "IT Français",
         "media": [
             {
                 "name": "Le Mag IT",
                 "url": "http://lemagit.fr",
+                "img": "",
+                "createdAt": "2005-04-01",
+                "pays": "France",
+                "langue": "français",
+                "typeMedia": "net"
+            },
+             {
+                "name": "IT Connect",
+                "url": "https://www.it-connect.fr/",
                 "img": "",
                 "createdAt": "2005-04-01",
                 "pays": "France",
